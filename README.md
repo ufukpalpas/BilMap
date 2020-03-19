@@ -17,7 +17,7 @@ The main target of this project is creating an indoor navigation for Bilkent Uni
  current floor and position of the user. We used sensors to find the current floor and GPS to find the location. It worked smootly. Some code blocks that can be used for this purpose can be found in 
  repository. However, this part should be developped so it is not included to the current version. 
  
- #License
+ # License
  ```
      Copyright (C) 2020  Ufuk Palpas
 
