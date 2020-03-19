@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/linearlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="75dp">
+
+            <ImageView
+                android:id="@+id/back_cafes"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp"
+                android:contentDescription="@string/todo"
+                android:onClick="back"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.057"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.444"
+                app:srcCompat="@drawable/back" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <ImageView
+            android:id="@+id/cafes_part_1"
+            android:layout_width="match_parent"
+            android:layout_height="474dp"
+            android:contentDescription="@string/todo"
+            app:srcCompat="@drawable/cafes_1" />
+
+        <ImageView
+            android:id="@+id/cafes_part_2"
+            android:layout_width="match_parent"
+            android:layout_height="327dp"
+            android:contentDescription="@string/todo"
+            app:srcCompat="@drawable/cafes_2" />
+
+        <ImageView
+            android:id="@+id/cafes_part_3"
+            android:layout_width="match_parent"
+            android:layout_height="343dp"
+            app:srcCompat="@drawable/cafes_3"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/cafes_part_4"
+            android:layout_width="match_parent"
+            android:layout_height="373dp"
+            app:srcCompat="@drawable/cafes_4"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/cafes_part_5"
+            android:layout_width="match_parent"
+            android:layout_height="401dp"
+            app:srcCompat="@drawable/cafes_5"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/cafes_part_6"
+            android:layout_width="match_parent"
+            android:layout_height="342dp"
+            app:srcCompat="@drawable/cafes_6"
+            android:contentDescription="@string/todo" />
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">BilMap</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="todo">TODO</string>
+    <string name="please_choose_the_nearest_building">Please choose the nearest building:</string>
+    <string name="view_all_vending_machines">View all vending machines</string>
+    <string name="water_bottle_vending_machines">Water Bottle Vending Machines:</string>
+    <string name="cold_drink_vending_machines">Cold Drink Vending Machines:</string>
+    <string name="hot_drink_vending_machines">Hot Drink Vending Machines:</string>
+    <string name="food_vending_machines">Food Vending Machines:</string>
+    <string name="b_building_second_floor">B Building Second Floor</string>
+    <string name="b_building_ground_floor">B Building Ground Floor</string>
+    <string name="b_building_first_floor">B Building First Floor</string>
+    <string name="b_building_first_floor_second_floor">B Building First Floor/Second Floor</string>
+    <string name="sa_sb_building_ground_floor">SA/SB Building Ground Floor</string>
+    <string name="alternative_main_sports_hall_or_b_building">Alternative: Main Sports Hall or B Building</string>
+    <string name="g_building_downstairs">G Building Downstairs</string>
+    <string name="la_lb_building_ground_floor">LA/LB Building Ground Floor</string>
+    <string name="g_building_ground_floor">G Building Ground Floor</string>
+    <string name="alternative_g_building">Alternative: G Building</string>
+    <string name="a_h_building_ground_floor">A/H Building Ground Floor</string>
+    <string name="fb_buildings_ground_floor">FB Buildings Ground Floor</string>
+    <string name="fa_building_ground_floor">FA Building Ground Floor</string>
+    <string name="alternative_ffb_fb_building_ground_floor">Alternative: FFB, FB Building Ground Floor</string>
+    <string name="ffa_building_ground_floor">FFA Building Ground Floor</string>
+    <string name="closest_vending_machine">Closest Vending Machine</string>
+    <string name="maps">Maps</string>
+    <string name="rings">Rings</string>
+    <string name="markets_and_cafes">Markets and Cafes</string>
+    <string name="where_is_smoking_allowed">Where is Smoking Allowed?</string>
+    <string name="get_to_my_destination">Get to My Destination</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="button">Button</string>
+    <string name="name" />
+    <string name="textview">testfg</string>
+    <string name="saaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" />
+    <string name="dfswsfdsdsfdsfdsfds">dfswsfdsdsfdsfdsfds</string>
+
+
+</resources>

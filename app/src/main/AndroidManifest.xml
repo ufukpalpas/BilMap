@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bilmap">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:hardwareAccelerated="false"
+        android:largeHeap="true"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".navigation_codes.Navigation"></activity>
+        <activity android:name=".navigation_codes.Main3Activity" />
+        <activity android:name=".TestingVertex" />
+        <activity android:name=".naviApp" />
+        <activity android:name=".navigation_codes.showNavigation" />
+        <activity android:name=".showNavigation" />
+        <activity android:name=".navigation_main2" />
+        <activity android:name=".navigation_main" />
+        <activity android:name=".maps_floors.ThirdFloor" />
+        <activity android:name=".maps_floors.SecondFloor" />
+        <activity android:name=".maps_floors.FirstFloor" />
+        <activity android:name=".maps_floors.BasementFloor" />
+        <activity android:name=".maps_floors.EnteranceFloor" />
+        <activity android:name=".mapsSecond" />
+        <activity android:name=".mapsmain" />
+        <activity android:name=".vending_buildings.library_vending" />
+        <activity android:name=".vending_buildings.v_vending" />
+        <activity android:name=".vending_buildings.ff_vending" />
+        <activity android:name=".vending_buildings.fc_vending" />
+        <activity android:name=".vending_buildings.ah_vending" />
+        <activity android:name=".vending_buildings.g_vending" />
+        <activity android:name=".vending_buildings.lab_vending" />
+        <activity android:name=".vending_buildings.sab_vending" />
+        <activity android:name=".vending_buildings.b_vending" />
+        <activity android:name=".all_vending_machines" />
+        <activity android:name=".vendingmachine_spinner" />
+        <activity android:name=".smokingallowed" />
+        <activity android:name=".cafes" />
+        <activity android:name=".Rings" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
