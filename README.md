@@ -14,7 +14,7 @@ The main target of this project is creating an indoor navigation for Bilkent Uni
 
  
  # Features that can be improved
- The current version of this project works by communicating with user to detect the instant location of the user. However, it is possible to change it with an different positioning that can detect 
+ The current version of this project works by communicating with user to detect the instant location of the user. However, it is possible to change it with a different positioning that can detect 
  current floor and position of the user. We used sensors to find the current floor and GPS to find the location. It worked smootly. Some code blocks that can be used for this purpose can be found in 
  repository. However, this part should be developped so it is not included to the current version. 
  
